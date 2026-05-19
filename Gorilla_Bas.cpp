@@ -129,7 +129,7 @@ void SetupRound() {
 }
 
 int main() {
-    InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, "Gorilla.bas - Angulos 0 a 180");
+    InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, "Gorilla-cpp- Angulos 0 a 180");
     SetTargetFPS(60);
     srand(time(NULL));
 
